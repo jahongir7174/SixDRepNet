@@ -1,0 +1,4 @@
+min_lr: 0.000100000000            # initial learning rate
+max_lr: 0.001000000000            # maximum learning rate
+weight_decay: 0.000100            # optimizer weight decay
+warmup_epochs: 5.00000            # number of warmup epochs
